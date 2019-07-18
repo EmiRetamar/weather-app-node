@@ -1,4 +1,4 @@
-## Aplicación del Clima que utiliza la API de OpenWeatherMap
+## Aplicación del clima que utiliza la API de OpenWeatherMap
 
 
 Ejecutar ```npm install``` para las instalar las librerías
